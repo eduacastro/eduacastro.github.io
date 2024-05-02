@@ -1,10 +1,10 @@
 # Eduardo Castro's Portfolio 
 
-Currenctly attending Cal [State University of Fullerton](https://www.fullerton.edu/) as a first year, first gen electrcial engineer major.
+Currenctly attending Cal [State University of Fullerton](https://www.fullerton.edu/) as a first year, first gen electrcial engineer major expected to graduate in 2027.
 
 ## Projects/Programs in Computer Science 
 
-My github profile page: https://github.com/eduacastro
+My github profile page: [@eduacastro](https://github.com/eduacastro)
 
 * Lab 1
 
