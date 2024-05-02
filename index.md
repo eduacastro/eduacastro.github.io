@@ -1,6 +1,6 @@
 # Eduardo Castro's Portfolio 
 
-Currenctly attending Cal [State University of Fullerton] (https://www.fullerton.edu/) as a first year, first gen electrcial engineer major.
+Currenctly attending Cal [State University of Fullerton](https://www.fullerton.edu/) as a first year, first gen electrcial engineer major.
 
 ## Projects/Programs in Computer Science 
 
