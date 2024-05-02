@@ -12,7 +12,7 @@ My github profile page: https://github.com/eduacastro
 
 * Lab 7
 
- Lab 7, part 2 fascinated me with its exploration of Blackjack mechanics. Writing functions for the first time, especially those calculating hand values with multiple Aces, proved both challenging and rewarding. It deepened my understanding of the game's complexities.
+  Lab 7, part 2 fascinated me with its exploration of Blackjack mechanics. Writing functions for the first time, especially those calculating hand values with multiple Aces, proved both challenging and rewarding. It deepened my understanding of the game's complexities.
  
 * Lab 5
 
